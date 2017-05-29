@@ -1,0 +1,728 @@
+/* ========== Text Styles ========== */
+hr { color: #000000}
+body, table, span.rvts0 /* Normal text */
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts2 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts3 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts4 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts5 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts6 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts7 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts8 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts9 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts10 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts11 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts12 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts13 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts14 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts15 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts16 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts17 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts18 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts19 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts20 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts21 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts22 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts23 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts24 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts25 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts26 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts27 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts28 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts29 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts30 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts31 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts32 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts33 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts34 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts35 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts36 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts37 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts38 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts39 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts40 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts41 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts42 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts43 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts44 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts45 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts46 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts47 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts48 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts49 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts50 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts51 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts52 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts53 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts54 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts55 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts56 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts57 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts58 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts59 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts60 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts61 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts62 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts63 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts64 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts65 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts66 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts67 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts68 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts69 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts70 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts71 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts72 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts73 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts74 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts75 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts76 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts77 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts78 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts79 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts80 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts81 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts82 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts83 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts84 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts85 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts86 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts87 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts88 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts89 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts90 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts91 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts92 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts93 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts94 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts95 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts96 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts97 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts98 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts99 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts100 /* STUB */
+{
+ font-size: 0px;
+}
+span.rvts101 /* Normal text */
+{
+ font-size: 0px;
+ font-weight: bold;
+}
+/* ========== Para Styles ========== */
+p,ul,ol /* Left align */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* STUB */
+{
+}
+.rvps2 /* STUB */
+{
+}
+.rvps3 /* STUB */
+{
+}
+.rvps4 /* STUB */
+{
+}
+.rvps5 /* STUB */
+{
+}
+.rvps6 /* STUB */
+{
+}
+.rvps7 /* STUB */
+{
+}
+.rvps8 /* STUB */
+{
+}
+.rvps9 /* STUB */
+{
+}
+.rvps10 /* STUB */
+{
+}
+.rvps11 /* STUB */
+{
+}
+.rvps12 /* STUB */
+{
+}
+.rvps13 /* STUB */
+{
+}
+.rvps14 /* STUB */
+{
+}
+.rvps15 /* STUB */
+{
+}
+.rvps16 /* STUB */
+{
+}
+.rvps17 /* STUB */
+{
+}
+.rvps18 /* STUB */
+{
+}
+.rvps19 /* STUB */
+{
+}
+.rvps20 /* STUB */
+{
+}
+.rvps21 /* STUB */
+{
+}
+.rvps22 /* STUB */
+{
+}
+.rvps23 /* STUB */
+{
+}
+.rvps24 /* STUB */
+{
+}
+.rvps25 /* STUB */
+{
+}
+.rvps26 /* STUB */
+{
+}
+.rvps27 /* STUB */
+{
+}
+.rvps28 /* STUB */
+{
+}
+.rvps29 /* STUB */
+{
+}
+.rvps30 /* STUB */
+{
+}
+.rvps31 /* STUB */
+{
+}
+.rvps32 /* STUB */
+{
+}
+.rvps33 /* STUB */
+{
+}
+.rvps34 /* STUB */
+{
+}
+.rvps35 /* STUB */
+{
+}
+.rvps36 /* STUB */
+{
+}
+.rvps37 /* STUB */
+{
+}
+.rvps38 /* STUB */
+{
+}
+.rvps39 /* STUB */
+{
+}
+.rvps40 /* STUB */
+{
+}
+.rvps41 /* STUB */
+{
+}
+.rvps42 /* STUB */
+{
+}
+.rvps43 /* STUB */
+{
+}
+.rvps44 /* STUB */
+{
+}
+.rvps45 /* STUB */
+{
+}
+.rvps46 /* STUB */
+{
+}
+.rvps47 /* STUB */
+{
+}
+.rvps48 /* STUB */
+{
+}
+.rvps49 /* STUB */
+{
+}
+.rvps50 /* STUB */
+{
+}
+.rvps51 /* STUB */
+{
+}
+.rvps52 /* STUB */
+{
+}
+.rvps53 /* STUB */
+{
+}
+.rvps54 /* STUB */
+{
+}
+.rvps55 /* STUB */
+{
+}
+.rvps56 /* STUB */
+{
+}
+.rvps57 /* STUB */
+{
+}
+.rvps58 /* STUB */
+{
+}
+.rvps59 /* STUB */
+{
+}
+.rvps60 /* STUB */
+{
+}
+.rvps61 /* STUB */
+{
+}
+.rvps62 /* STUB */
+{
+}
+.rvps63 /* STUB */
+{
+}
+.rvps64 /* STUB */
+{
+}
+.rvps65 /* STUB */
+{
+}
+.rvps66 /* STUB */
+{
+}
+.rvps67 /* STUB */
+{
+}
+.rvps68 /* STUB */
+{
+}
+.rvps69 /* STUB */
+{
+}
+.rvps70 /* STUB */
+{
+}
+.rvps71 /* STUB */
+{
+}
+.rvps72 /* STUB */
+{
+}
+.rvps73 /* STUB */
+{
+}
+.rvps74 /* STUB */
+{
+}
+.rvps75 /* STUB */
+{
+}
+.rvps76 /* STUB */
+{
+}
+.rvps77 /* STUB */
+{
+}
+.rvps78 /* STUB */
+{
+}
+.rvps79 /* STUB */
+{
+}
+.rvps80 /* STUB */
+{
+}
+.rvps81 /* STUB */
+{
+}
+.rvps82 /* STUB */
+{
+}
+.rvps83 /* STUB */
+{
+}
+.rvps84 /* STUB */
+{
+}
+.rvps85 /* STUB */
+{
+}
+.rvps86 /* STUB */
+{
+}
+.rvps87 /* STUB */
+{
+}
+.rvps88 /* STUB */
+{
+}
+.rvps89 /* STUB */
+{
+}
+.rvps90 /* STUB */
+{
+}
+.rvps91 /* STUB */
+{
+}
+.rvps92 /* STUB */
+{
+}
+.rvps93 /* STUB */
+{
+}
+.rvps94 /* STUB */
+{
+}
+.rvps95 /* STUB */
+{
+}
+.rvps96 /* STUB */
+{
+}
+.rvps97 /* STUB */
+{
+}
+.rvps98 /* STUB */
+{
+}
+.rvps99 /* STUB */
+{
+}
+.rvps100 /* STUB */
+{
+}
+.rvps101 /* Left align */
+{
+ text-align: center;
+}

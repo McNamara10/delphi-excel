@@ -1,0 +1,9 @@
+#define about 10
+#define oo 100
+#define support 20
+#define gettingstarted 40
+#define mainmenu 50
+#define toolbar 60
+#define tutorial 70
+#define task1 80
+#define task2 90

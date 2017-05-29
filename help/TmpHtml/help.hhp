@@ -1,0 +1,41 @@
+[OPTIONS]
+Language=0x0410
+Default Font=Arial,8,0
+TITLE=Effeeffe
+Full-text search=Yes
+Display compile notes=YES
+Display compile progress=YES
+Compatibility=1.1
+Auto Index=No
+Default Window=Main
+Compiled file=help.chm
+Error Log file=help.log
+Contents file=help.hhc
+Index File=help.hhk
+Default Topic=about.html
+[FILES]
+about.html
+support.html
+gettingstarted.html
+mainmenu.html
+toolbar.html
+tutorial.html
+task1.html
+task2.html
+help.png
+nexttopic.png
+prevtopic.png
+[WINDOWS]
+Main=,"help.hhc","help.hhk","about.html","about.html",,,,,0x061520,200,0x00304E,[50,50,850,450],0x307e,,,,,,,,0
+[ALIAS]
+about=about.html
+oo=oo.html
+support=support.html
+gettingstarted=gettingstarted.html
+mainmenu=mainmenu.html
+toolbar=toolbar.html
+tutorial=tutorial.html
+task1=task1.html
+task2=task2.html
+[MAP]
+#include help.h
