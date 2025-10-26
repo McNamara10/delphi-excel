@@ -1,0 +1,67 @@
+# Delphi 7 .gitignore
+
+# Compiled files
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dproj.local
+*.identcache
+*.projdata
+*.stat
+
+# Backup & temporary files
+*.~*
+~*.*
+*.bak
+*.ddp
+*.local
+*.cbk
+
+# Delphi Project Files (uncomment if needed)
+# *.cfg
+# *.dof
+
+# IDE Files
+*.dsk
+ModelSupport_*/
+
+# Castalia statistics
+*.stat
+
+# Boss dependency manager
+modules/
+
+# Debug files
+__history/
+__recovery/
+*.~*
+
+# Binary Executables (keep project files)
+Win32/
+Win64/
+Debug/
+Release/
+*.exe
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Other
+*.identcache
+*.local
+*.dproj.local
